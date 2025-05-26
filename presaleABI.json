@@ -1,0 +1,1 @@
+[{"inputs":[],"name":"buyWithETH","stateMutability":"payable","type":"function"},{"inputs":[],"name":"buyWithUSDC","stateMutability":"nonpayable","type":"function"},{"inputs":[],"name":"claimTokens","stateMutability":"nonpayable","type":"function"}]
