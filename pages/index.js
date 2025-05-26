@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 import { ethers } from "ethers";
 import abi from "../presaleABI.json";
 
-const PRESALE_ADDRESS = "0xC4259173a89D280385F5421dC9dB0B1ff11Fe6b1";
+const PRESALE_ADDRESS = "0x8f39E946e213a0277CB76A8D0D99d2e2fAA0e9eA";
 const USDC_ADDRESS = "0xd9AA94FF7C3B5FB3f36473C55504FF63f204A4D8";
 
 export default function Home() {
